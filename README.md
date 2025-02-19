@@ -4,8 +4,8 @@ This Python program converts user-inputted words into their corresponding phonet
 
 Additionally, the project demonstrates how to:
 
-Create a dictionary in Python.
-Loop through a dictionary using .items().
-Convert a dictionary into a Pandas DataFrame.
-Iterate through rows of a DataFrame using .iterrows().
-Use dictionary comprehension to create a new dictionary from a DataFrame.
+- Create a dictionary in Python.
+- Loop through a dictionary using .items().
+- Convert a dictionary into a Pandas DataFrame.
+- Iterate through rows of a DataFrame using .iterrows().
+- Use dictionary comprehension to create a new dictionary from a DataFrame.
